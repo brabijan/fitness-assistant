@@ -6,10 +6,11 @@
 
 ## 📊 Základní Metriky
 
-**Last Updated:** 2025-10-31
+**Last Updated:** 31.10.2025
 
 ### Tělesné Parametry
-- **Váha:** 102.6 kg
+- **Věk:** 34 let (narozen 2.1.1991)
+- **Váha:** 102.6 kg (vážení 31.10.2025 ráno)
 - **Výška:** 186 cm
 - **BMI:** 29.7 _(cíl: 24.5 při 85kg)_
 
@@ -306,9 +307,16 @@ Váha | ___kg | ___kg | -___kg
 - Handstand hold je solidní - vyšvihnutí se naučí rychle
 
 **Kontext:**
-- Rok silového tréninku → nyní přechod na kalisteniku
+- Věk: 34 let (narozen 2.1.1991)
+- Rok silového tréninku (2024-2025) → nyní přechod na kalisteniku
 - Současně váhový pokles 102.6kg → 85kg (-17.6kg)
 - V deficitu: očekávej neurální adaptace > hypertrofii, pomalejší recovery
+
+**Pre-workout suplementace:**
+- Občas užívá "Králičí krev" před tréninkem
+- Složení: 250mg kofein + stimulanty (L-citrullin-malát, beta-alanin, taurin, tyrosin, atd.)
+- → Tolerance stimulantů je pravděpodobně dobrá
+- → Může zvládat vyšší intenzitu při usage
 
 ---
 

@@ -141,24 +141,30 @@
 
 ## 📅 Krátkodobé Cíle (Tento Mesocyklus - 4-6 týdnů)
 
-**Mesocyklus:** [Číslo/Název]
-**Datum:** [Start] - [Konec]
+**Mesocyklus 1:** "Foundation & Transition"
+**Datum:** 3.11.2025 - 14.12.2025 (6 týdnů)
 
-1. _____
-2. _____
-3. _____
+**Cíle mesocyklu:**
+1. **Pull-ups:** 5 reps → 8+ reps (foundation pro muscle up)
+2. **Planche lean:** Conditioning od základů, zvládnout hold 10s+
+3. **Front lever:** Baseline test + začátek tuck front lever progressions
+4. **Hip mobility:** Denní rutina, zlepšení ROM v kyčlích a adduktorech
+5. **Weight loss:** 102.6kg → ~99-100kg (3-4kg za 6 týdnů, 0.5-0.7kg/týden)
+6. **Thoracic spine:** Denní mobilita, zlepšit stiffness
 
 ---
 
 ## 📅 Tento Týden
 
-**Týden:** [Číslo]
-**Datum:** [Start] - [Konec]
+**Týden 1:** První týden mesocyklu 1
+**Datum:** 3.11.2025 - 7.11.2025 (Po-Pá)
 
 **Mini-cíle:**
-1. _____
-2. _____
-3. _____
+1. **Dokončit všech 5 tréninků** (Po-Pá) - ustanovit konzistenci
+2. **Baseline testy:** Front lever, pistol squat, pike push-ups (zjistit kde jsem)
+3. **Hip mobility routine každý den** - začít daily habit (10-15 min)
+4. **Sleep tracking:** Screenshot každý ráno před tréninkem
+5. **Váha:** Trackovat denně ráno, začít deficit
 
 ---
 
@@ -183,4 +189,4 @@ _____
 
 ---
 
-**Last updated:** [Datum]
+**Last updated:** 31.10.2025

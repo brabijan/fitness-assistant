@@ -121,14 +121,15 @@ _____
 ### Struktura vs. Flexibilita
 
 **Preferuji:**
-- [x] Semi-structured (hlavní cviky dané, details flexibilní) - PRAVDĚPODOBNÉ
-- [ ] Strict plán (přesně co dělat, kdy, kolik)
+- [x] **STRICT plán** ✅ (přesně co dělat, kdy, kolik)
+- [ ] Semi-structured (hlavní cviky dané, details flexibilní)
 - [ ] Flexible (guidelines, ale můžu improvizovat)
 
 **Poznámky:**
-- Má zkušenosti s tréninkem → pravděpodobně ocení strukturu
-- Real-time adjustace během tréninku (proto Claude asistence)
+- **POŽADAVEK:** "Chci strict plan - cviky, opakovani, vahy, rozehrati"
 - Fixní časové okno (60 min) vyžaduje efektivní plánování
+- Real-time adjustace BĚHEM tréninku (proto Claude asistence)
+- Plán musí být strict, ale s možností real-time adjustací podle okolností
 
 ---
 
@@ -143,22 +144,76 @@ _____
 
 ---
 
+### Progressive Overload - Jak zvyšovat náročnost
+
+**Preferuji:**
+- [x] **Mix style** ✅ (reps pak váha)
+- [ ] Jen přidat reps (keep weight)
+- [ ] Jen přidat váhu (keep reps)
+
+**Detaily:**
+- Strategie: Zvýšit reps (např. 3×8 → 3×10), pak +váha a reset
+- Quote: *"Mix (reps pak váha)"*
+- Pro skills: Progressive regressions → harder variations
+
+---
+
+### Rest Times Mezi Sériemi
+
+**Preference (z historie se silovkou):**
+
+**Compound cviky (pull-ups, dips, squats):**
+- **2-3 minuty** - Plné recovery pro sílu/techniku
+- Quote: *"silove cviky jsem vzdy mel 2-3 minuty"*
+
+**Accessory/Unilateral:**
+- **60-90 sekund** - Kratší pauzy
+- Quote: *"Potom jsem zkracoval na 90s"*
+
+**Malé partie (delty, core):**
+- **60 sekund** - Nejkratší
+- Quote: *"ty nejmensi partie nebo unilateralni cviky i jen 60s"*
+
+**Poznámky:**
+- V kalistenice možná delší pauzy pro skills (nervový systém)
+- **DEMOTIVACE:** Příliš dlouhé pauzy = nuda → optimalizovat
+
+---
+
+### Deload Week Preference
+
+**Frekvence:**
+- [x] **Každých 4-6 týdnů** ✅ (zkušenost ze silovky)
+- [ ] Podle potřeby (když únava)
+- [ ] Nechci deload
+- [ ] Nevím
+
+**Poznámky:**
+- Ze silovky: "V silovce byl 4-6 tydnu"
+- V kalistenice: "Nevim jak budu fungovat v kalistenice"
+- Budu sledovat recovery a adjustovat podle potřeby
+- V deficitu možná častěji (pomalejší recovery)
+
+---
+
 ## 🏃 Cardio Preference
 
 **Oblíbené typy cardio:**
-- [x] Běh (outdoor) ✅ - aktivní (půlmaraton 3h loni)
-- [ ] Běh (treadmill) - TBD
+- [x] **Běh OUTDOOR** ✅ - aktivní (půlmaraton 3h loni)
+  - **Nejraději:** Les, nezpevněné povrchy (trail running)
+  - **OK:** Asfalt (přežije)
+  - **NE:** Treadmill (nuda)
 - [ ] Cycling - TBD
 - [ ] Swimming - TBD
 - [ ] HIIT circuits - TBD (možná v rámci conditioning)
 - [ ] Jump rope - TBD
 - [ ] Rowing - TBD
-- [x] Stairs/Hill sprints - Výstupy na Kleť! (2km + 400m za 35min)
+- [x] **Stairs/Hill sprints** - Výstupy na Kleť! (2km + 400m za 35min)
 - [ ] Walking (active recovery) - TBD
-- [ ] Jiné: _____
 
 **Neoblíbené cardio:**
-- TBD (zatím nespecifikováno)
+- ⛔ **Treadmill** - Nuda, preferuje outdoor vždy
+- Quote: *"Outdoor. Nejradsi v lese na nezpevnenych povrsich. Asfalt taky preziju..."*
 
 **Poznámky:**
 - **Běh:** Aktuální tempo 8:00 min/km (5km), cíl sub 25min (5:00 min/km)
@@ -193,13 +248,14 @@ _____
 
 **Doma:**
 - [ ] Hrazda (pull-up bar) - TBD
-- [ ] Kruhy (gymnastic rings) - TBD
-- [ ] Resistance bands - TBD
-- [ ] Kettlebells/Dumbbells - TBD
+- [x] **Resistance bands** - ✅ Všechny možné síly!
+- [x] **8kg kettlebell** ✅
 - [ ] Parallettes - TBD
 - [ ] Jump rope - TBD
-- [ ] Yoga mat - pravděpodobně ano
-- [ ] Jiné: _____
+- [x] Yoga mat - pravděpodobně ano ✅
+
+**Venku:**
+- [x] **Gymnastické kruhy** ✅
 
 **V posilovně:** ✅ **PLNĚ VYBAVENÁ POSILOVNA**
 - [x] Free weights (činky, kettlebells)
@@ -224,28 +280,29 @@ _____
 ## 👥 Sociální Aspekt
 
 **Preferuji:**
-- [ ] Trénovat sám (focus, tempo)
+- [x] **Trénovat sám** ✅ (focus, tempo, VŽDY sám)
 - [ ] S partnerem (motivace)
 - [ ] Ve skupině
 - [ ] Záleží na náladě
 
 **Poznámky:**
-_____
+- VŽDY trénuje sám
+- Preferuje solo focus
+- Žádný tréninkový partner
 
 ---
 
 ## 🎵 Během Tréninku
 
 **Hudba:**
-- [ ] Vždy (pump up)
-- [ ] Občas
-- [ ] Nikdy (focus na form)
+- [x] **"Co hraje ve fitku"** ✅ - Passive listening
+- [ ] Vždy vlastní playlist
+- [ ] Nikdy (ticho)
 - [ ] Záleží na typu tréninku
 
-**Jiné preference:**
-- [ ] Podcast/audiobook (během cardio)
-- [ ] Ticho
-- [ ] _____
+**Poznámky:**
+- Nenáročný na audio - poslouchá co hraje v posilovně
+- Žádné speciální požadavky na hudbu/podcast
 
 ---
 
@@ -253,25 +310,31 @@ _____
 
 ### Co mě motivuje během tréninku?
 
-_Např. "vidět čísla růst", "cítit burn", "představovat si cíl", "soutěživost"_
+1. **VÝZVY!** - Miluje výzvy (proto přechod na skills)
+2. **Pokrok k skillům** - Vidět pokrok směrem k muscle up, planche, atd.
+3. **Vidět čísla růst** - Ale u silovky už ho to nebavilo (stagnace)
+4. **Nové věci** - Silový trénink přestal bavit, protože "se to neposovalo tak rychle"
 
-_____
+**Quote:** *"U silovky me motivovalo zvedat tezky veci, ale nejak uz me to nebavi, kdyz uz se to neposouva tak rychle. Mam rad vyzvy"*
 
 ---
 
 ### Co mě demotivuje?
 
-_Např. "příliš dlouhé pauzy", "monotonní cviky", "feeling lost/bez plánu"_
+1. ⛔ **Příliš lehké cviky** - Feeling že je to waste of time
+2. ⛔ **Příliš dlouhé pauzy** - Nuda, feeling neefektivity
+3. ⛔ **Absence plánu** - "Feeling lost/bez plánu"
+4. ⛔ **Cviky "kde trpí ego"** - Např. 2.5kg činky na zadní delty
+   - Ale: Chápe že jsou potřeba pro health/prevenci
 
-_____
+**Quote:** *"Vsechno, kde trpi ego. Kde me znici i 2.5kg cinka. Treba zadni delty :D Ale chapu, ze je to treba"*
 
 ---
 
 ### Jak se vzpamatovávám z bad day?
 
-_Např. "zkrátit trénink", "změnit typ cvičení", "skip a udělat zítra"_
-
-_____
+- TBD (bude se zjišťovat během tréninků)
+- Pravděpodobně: Adjustovat intenzitu, ne skipovat (má consistency mindset)
 
 ---
 
@@ -280,9 +343,15 @@ _____
 ### Jak detailní tracking chci?
 
 **Pro tréninky:**
-- [x] Střední (hlavní cviky, reps, váhy) - DOPORUČENÉ
+- [x] **Střední** (hlavní cviky, reps, váhy) ✅ DOPORUČENÉ
 - [ ] Velmi detailní (každá série, pocity, tempo)
 - [ ] Minimální (co jsem dělal, jak to bylo)
+
+**Tracking metoda:**
+- [x] **Do konverzace s Claudem** ✅ - PRIMÁRNÍ
+- Má app "Strong", ale nemá export → praktičtější je trackovat přímo v konverzaci
+- Real-time reporting během tréninku
+- Quote: *"Mam appku strong, ale ta nema zadnej export, abych to dostal k tobe... takze asi do konverzace bude jednodussi"*
 
 **Pro progress:**
 - [x] Weekly reviews ✅ (každý týden nový plán)
@@ -297,7 +366,12 @@ _____
 - [ ] Obvody (jak často: Měsíčně optional)
 
 **Sleep tracking:**
-- Screenshoty spánku DENNĚ (pro adjustaci intenzity)
+- **Metoda:** Apple Watch → Screenshot každý ráno
+- **Kdy:** Ráno před tréninkem (jako součást check-in)
+- **Jak:** Screenshot z Apple Health app
+- **Processing:** Claude přečte přes OCR (hodin spánku, HRV, kvalita)
+- **Důvod:** Adjustace intenzity podle recovery
+- Quote: *"Trackuju v apple health pres apple watch. Export mam, ale ten je jednorazovy a asi se mi nebude chtit ho pravidelne delat, takze asi rano screenshot a ty si pres ocr prectes vsechny potrebne udaje?"*
 
 ---
 
@@ -322,19 +396,35 @@ _____
 
 ## 🍽️ Výživa (Obecné Preference)
 
-_Nejsem schopen trackovat detailně, ale:_
+**CONTEXT:** Žena vaří "do oka" - tracking není přesný/udržitelný. Při pokusu s trackingem měl hlad a nehubnul (pravděpodobně nepřesné vážení).
 
 **Stravovací vzorce:**
-- Počet jídel denně: _____
-- Preferovaný čas hlavního jídla: _____
-- Snídaně: [Ano/Ne/Občas]
+- **Počet jídel denně:** 6 jídel (3 hlavní + 3 svačiny)
+- **Celková kalorie:** ~2200 kcal (když trackoval - ale nehubnul → pravděpodobně podhodnoceno)
+- **Realistic kalorie:** Pravděpodobně 2400-2600 kcal (proto nehubnul)
+
+**Časový rozpis:**
+1. **7:00 - Snídaně:** 3 vejce + 60g slaniny (~450 kcal)
+2. **10:00 - Po fitku:** 200g řecký jogurt 2% + 50g mix ovoce mražené (~250 kcal)
+3. **~13:00 - Oběd:** Kuře s rýží / těstoviny s hovězím mletým (~600-700 kcal)
+4. **~16:00 - Svačina 2:** Stejné jako po fitku (jogurt + ovoce, ~250 kcal)
+5. **~19:00 - Večeře:** Stejná jako oběd (~600-700 kcal)
+6. **Před spaním:** 100g schwarzwaldské šunky (~100-150 kcal)
+
+**Pre-workout:**
+- Občas "Králičí krev" (250mg kofein + stimulanty) před tréninkem
 
 **Omezení:**
+- [x] **Žádné omezení** ✅ (jí všechno)
 - [ ] Vegetarián
 - [ ] Vegan
 - [ ] Bez laktózy
 - [ ] Bez glutenu
-- [ ] Jiné: _____
+
+**Nápoje:**
+- Primárně: Voda
+- Občas: Zero ice tea (1x týdně zhruba)
+- Zero hidden calories ✅
 
 **Poznámky k výživě:**
 - **Cíl:** Deficit ~500-700 kcal/den pro weight loss (0.5-0.7 kg/týden)
@@ -423,7 +513,7 @@ _Seřazeno podle priority (odvozeno z cílů):_
 
 ---
 
-**Last updated:** 2025-10-31
+**Last updated:** 31.10.2025
 
 **Poznámka:** Preference se můžou měnit! Aktualizuj tento soubor kdykoliv se tvoje preference změní.
 

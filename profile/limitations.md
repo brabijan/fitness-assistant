@@ -10,17 +10,19 @@
 
 ### Aktivní Problémy
 
-**Problém 1: Supraspinatus (ramena)**
-- **Lokace:** Ramena (rotátorová manžeta, konkrétně supraspinatus)
-- **Typ bolesti:** Tupá/Tlaková při nedostatečném warm-upu
+**Problém 1: Supraspinatus (LEVÉ rameno) - PRAVÉ OK ✅**
+- **Lokace:** **LEVÉ RAMENO** - rotátorová manžeta, konkrétně supraspinatus
+- **PRAVÉ RAMENO:** ✅ Bez problémů!
+- **Typ bolesti:** Tupá/Tlaková při nedostatečném warm-upu (jen levé!)
 - **Kdy bolí:** Pod zátěží při pressing cvicích (bench, overhead, dips) - POUZE pokud není přehřátá rotátorka
 - **Jak dlouho:** Dlouhodobá záležitost (chronická slabost/vulnerability)
-- **Co ho zhoršuje:** Pressing bez warm-upu, studené rameno
+- **Co ho zhoršuje:** Pressing bez warm-upu, studené levé rameno
 - **Léčba/Management:** **POVINNÝ warm-up rotátorové manžety před JAKÝMKOLIV pressing cvičením**
-  - Band pull-aparts
-  - External rotations
-  - Shoulder dislocates
-  - Minimum 5-10 minut warm-up specificky pro ramena!
+  - Band pull-aparts: 2×15
+  - External rotations: 2×12 (oba ramena bilaterálně, i když pravé OK - prevence)
+  - Shoulder dislocates: 2×10
+  - Arm circles: 10 každým směrem
+  - Minimum 10 minut warm-up specificky pro ramena!
 - **Cviky které skipovat:** ŽÁDNÉ pressing cviky bez warm-upu!
 
 **Problém 2: Pravý kotník (dorsiflexion)**
@@ -37,16 +39,16 @@
 ### Ramena
 
 - **Pravé rameno:**
-  - Status: S opatrností - supraspinatus vulnerability
+  - Status: ✅ **OK - Bez problémů!**
+  - Poznámky: Žádná bolest, žádné omezení
+  - Omezení: Žádné (ale warm-up preventivně doporučen)
+
+- **Levé rameno:**
+  - Status: ⚠️ **S opatrností - supraspinatus vulnerability**
   - Poznámky: Bolí při pressing BEZ warm-upu
   - Omezení: **MUSÍ warm-up před pressing cviky!**
 
-- **Levé rameno:**
-  - Status: S opatrností - supraspinatus vulnerability
-  - Poznámky: Stejné jako pravé
-  - Omezení: **MUSÍ warm-up před pressing cviky!**
-
-**Overhead work:** OK s warm-upem! BEZ warm-upu = bolest
+**Overhead work:** OK s warm-upem! BEZ warm-upu = bolest levého ramene
 **Handstand work:** OK (má handstand hold 30s bez problémů)
 **Planche work:** Bude potřeba conditioning postupně
 
@@ -91,8 +93,9 @@
   - **POZOR:** Při deficitu a weight loss sledovat, ale mělo by být OK
 
 - **Hrudní páteř (thoracic):**
-  - Status: OK ✅
-  - Poznámky: Bez problémů
+  - Status: ⚠️ **ZTUHLÁ**
+  - Poznámky: Potřeba mobilita! Handstand work možná, ale thoracic spine je stiff
+  - Co dělat: Denní thoracic mobility routine (foam rolling, cat-cow, rotace)
 
 **Deadlifts/Squats:** OK s postupnou progresí ✅
 - Deadlift 1RM 160kg, Trap bar 2RM 205kg - zvládá
@@ -207,8 +210,13 @@ _Žádné absolutní kontraindikace._
 - Poznámky: Pravděpodobně tight (common při sedavém zaměstnání)
 
 **Thoracic spine:**
-- Úroveň: OK/Mobilní ✅ (handstand work naznačuje OK)
-- Poznámky: Bez problémů
+- Úroveň: ⚠️ **ZTUHLÁ** (Stiff) - POTŘEBA PRÁCE!
+- Poznámky: Handstand zvládá, ale hrudní páteř je ztuhlá
+- Co dělat: Denní thoracic mobility routine (10 min)
+  - Foam rolling thoracic spine: 2×60s
+  - Cat-cow stretch: 2×10 reps
+  - Thoracic rotations (quadruped): 2×10 each side
+  - Book openers: 2×8 each side
 
 **Adduktory:** ⚠️ **PROBLÉM**
 - Úroveň: Tight/Zkrácené
@@ -237,23 +245,31 @@ _Žádné absolutní kontraindikace._
 
 ## 🔧 Prehab & Rehab Rutiny
 
-### Denní Mobility Routine (POTŘEBA VYTVOŘIT!)
-**Doporučuji:**
+### Denní Mobility Routine
+**POVINNÉ RUTINY:**
+
 1. **Shoulder warm-up** (PŘED každým pressing tréninkem - 10 min)
    - Band pull-aparts: 2×15
-   - External rotations: 2×12
+   - External rotations: 2×12 (bilaterálně, i když jen levé má problém)
    - Shoulder dislocates: 2×10
-   - Arm circles
+   - Arm circles: 10 každým směrem
 
-2. **Hip mobility** (DENNĚ - 10-15 min)
+2. **Thoracic spine mobility** (DENNĚ - 10 min) ⚠️ **PRIORITNÍ - ZTUHLÁ**
+   - Foam rolling thoracic spine: 2×60s
+   - Cat-cow stretch: 2×10 reps
+   - Thoracic rotations (quadruped): 2×10 each side
+   - Book openers: 2×8 each side
+   - Child's pose s rotací: 2×30s each side
+
+3. **Hip mobility** (DENNĚ - 10-15 min)
    - 90/90 stretch: 2×60s each side
    - Pigeon pose: 2×60s each side
    - Frog stretch: 2×60s
    - Deep squat hold: 2-3×30s
 
-3. **Ankle mobility** (GENTLE! - 5 min)
+4. **Ankle mobility** (GENTLE! - 5 min)
    - Wall calf stretch: 2×30s each leg
-   - Ankle circles
+   - Ankle circles: 10 každým směrem
    - Deep squat holds
 
 ### Specific Rehab Exercises
@@ -287,10 +303,12 @@ _Žádné absolutní kontraindikace._
 5. ✅ V deficitu: pomalejší recovery, očekávej neurální adaptace > hypertrofii
 
 **Red flags (okamžitě stop trénink pokud):**
-- ⛔ Ramena bolí i PO warm-upu → STOP pressing
+- ⛔ **LEVÉ rameno** bolí i PO warm-upu → STOP pressing immediately
+- ⛔ Pravé rameno začne bolet (nové!) → STOP pressing, check co se děje
 - ⛔ Pravý kotník "klikne" → STOP ankle work na několik dní
 - ⛔ Lower back bolest → STOP deadlifts/squats, check
 - ⛔ Jakákoliv ostrá bolest v kloubech
+- ⚠️ Thoracic spine stiffness zhoršuje → přidat více mobility work
 
 **Preferované modifikace:**
 - Pressing: Vždy s warm-upem (ne-negotiable)
@@ -324,7 +342,8 @@ _Žádné absolutní kontraindikace._
 3. ✅ **Hip mobility included?** → Daily routine recommended
 
 **BĚHEM TRÉNINKU - RED FLAGS:**
-- Ramena bolí I PO warm-upu → STOP pressing immediately
+- **LEVÉ rameno** bolí I PO warm-upu → STOP pressing immediately
+- Pravé rameno začne bolet (nové!) → STOP, check
 - Kotník "klikne" → STOP ankle work, rest několik dní
 - Lower back bolest → STOP deadlifts/squats
 - Ostrá bolest v jakémkoliv kloubu → STOP okamžitě
@@ -333,3 +352,4 @@ _Žádné absolutní kontraindikace._
 - Weight loss progress (sledovat záda - historie při 135kg)
 - Deficit recovery (bude pomalejší)
 - Hip mobility improvement (denní rutina)
+- **Thoracic spine mobility** (ztuhlá - daily work needed!)
