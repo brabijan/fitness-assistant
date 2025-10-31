@@ -6,12 +6,12 @@
 
 ## 📊 Základní Metriky
 
-**Last Updated:** [Datum]
+**Last Updated:** 2025-10-31
 
 ### Tělesné Parametry
-- **Váha:** _____ kg
-- **Výška:** _____ cm
-- **BMI:** _____ _(vypočítá se automaticky: váha/(výška²))_
+- **Váha:** 102.6 kg
+- **Výška:** 186 cm
+- **BMI:** 29.7 _(cíl: 24.5 při 85kg)_
 
 ### Obvody (nepovinné)
 - **Pas:** _____ cm
@@ -25,33 +25,34 @@
 
 ### Bodyweight Exercises (Max Reps - Clean Form)
 
-**Pull-ups (Strict):**
-- Current: _____ reps
-- Best ever: _____ reps
-- Datum testu: _____
+**Pull-ups (Strict, overhand):**
+- Current: 5 reps
+- Best ever: 5 reps
+- Datum testu: 2025-10-31
 
-**Chin-ups:**
-- Current: _____ reps
-- Best: _____ reps
-- Datum: _____
+**Chin-ups (underhand):**
+- Current: 3 reps
+- Best: 3 reps
+- Datum: 2025-10-31
 
 **Push-ups (Standard):**
-- Current: _____ reps
-- Best: _____ reps
-- Datum: _____
+- Current: 19 reps
+- Best: 19 reps
+- Datum: 2025-10-31
 
 **Diamond Push-ups:**
-- Current: _____ reps
+- Current: Baseline test needed
 - Best: _____ reps
 - Datum: _____
 
 **Dips:**
-- Current: _____ reps
-- Best: _____ reps
-- Datum: _____
+- Current: 4-5 reps (po benchi, unavený)
+- Best: 5 reps
+- Datum: 2025-10-31
+- Note: Fresh dips baseline test needed
 
 **Bodyweight Squats:**
-- Current: _____ reps
+- Current: Baseline test needed (deep squat zvládá, ale max reps neměřeno)
 - Best: _____ reps
 - Datum: _____
 
@@ -59,15 +60,33 @@
 
 ### Weighted Exercises (pokud používáš)
 
+**Bench Press:**
+- 1RM: 105 kg
+- Datum: 2025 (během silového roku)
+
+**Squat:**
+- 1RM: 145 kg
+- Datum: 2025 (během silového roku)
+
+**Deadlift (Conventional):**
+- 1RM: 160 kg
+- Datum: 2025
+
+**Trap Bar Deadlift:**
+- 2RM: 205 kg (výborné!)
+- Datum: 2025
+
 **Weighted Pull-ups:**
-- Current working weight: _____ kg × _____ reps
+- Current working weight: Baseline test needed
 - 1RM (estimated): _____ kg
 - Datum: _____
 
 **Weighted Dips:**
-- Current: _____ kg × _____ reps
+- Current: Baseline test needed
 - 1RM: _____ kg
 - Datum: _____
+
+**Note:** Silový základ po roce silového tréninku je velmi dobrý. Nyní přechod na kalisteniku.
 
 ---
 
@@ -76,56 +95,64 @@
 ### Static Holds
 
 **Handstand (proti zdi):**
-- Max hold: _____ sekund
-- Comfort level: [Beginner/Intermediate/Advanced]
-- Datum: _____
+- Max hold: 30 sekund (4 sets úspěšně)
+- Comfort level: Intermediate (problém s vyšvihnutím, ale hold je OK)
+- Datum: 2025-10-31
+- Note: "Handstand walk" - vyleze po zdi a vydrží. Vyšvihnutí se nezvládá.
 
 **L-sit (na parallettes/zemi):**
-- Max hold: _____ sekund
-- Kde: [Zem/Parallettes/Bradla]
-- Datum: _____
+- Max hold: 15 sekund (na bradlech)
+- Max hold: "pár sekund" (na zemi - těžší)
+- Kde: Bradla/Parallettes preferované
+- Datum: 2025-10-31
 
 **Planche Lean:**
-- Max hold: _____ sekund
-- Lean angle (přibližně): _____ stupňů
-- Datum: _____
+- Max hold: Nezvládá ani hold
+- Status: Beginner - neumí držet pozici
+- Datum: 2025-10-31
+- Note: PRIORITNÍ skill pro trénink (priorita 5/5)
 
 **Tuck Planche:**
-- Max hold: _____ sekund
-- Status: [Ještě nezvládám / Zvládám]
+- Max hold: 0 sekund
+- Status: Ještě nezvládám (planche lean first!)
 - Datum: _____
 
 **Front Lever (Tuck):**
-- Max hold: _____ sekund
-- Status: [Tuck / Advanced tuck / One leg / Straddle / Full]
+- Max hold: Baseline test needed
+- Status: Nezkoušel ještě
 - Datum: _____
+- Note: Priorita 4/5
 
 **Back Lever:**
-- Max hold: _____ sekund
-- Status: _____
+- Max hold: Baseline test needed
+- Status: Nezkoušel
 - Datum: _____
 
 **Human Flag:**
-- Max hold: _____ sekund
-- Status: [Nezvládám / Tuck / One leg / Full]
+- Max hold: 0 sekund
+- Status: Nezvládám (long-term goal)
 - Datum: _____
+- Note: Priorita 3/5, timeline 9-15 měsíců
 
 ---
 
 ### Dynamic Skills
 
 **Muscle Up:**
-- Status: [Nezvládám / S bandem / Kipping / Strict - 1 rep / Multiple reps]
-- Max reps (pokud zvládám): _____ reps
+- Status: Nezvládám (ještě nezkoušel)
+- Max reps: 0
 - Datum: _____
+- Note: PRIORITNÍ skill (priorita 5/5). Předpoklad: 12+ pull-ups. Aktuálně 5 pull-ups.
+- Timeline: 3-6 měsíců s progresí
 
 **Pistol Squat:**
-- **Pravá noha:** [Nezvládám / Box / Asistovaný / Full] | Max reps: _____
-- **Levá noha:** [Nezvládám / Box / Asistovaný / Full] | Max reps: _____
+- **Pravá noha:** Baseline test needed | Max reps: _____
+- **Levá noha:** Baseline test needed | Max reps: _____
 - Datum: _____
+- Note: Priorita 4/5. Má squat 145kg, deep squat zvládá (s kompenzací).
 
 **Handstand Push-up:**
-- Status: [Nezvládám / Pike push-ups / Wall assisted / Freestanding]
+- Status: Baseline test needed (Má handstand hold 30s, takže možná pike push-ups zvládá)
 - Max reps: _____ reps
 - Datum: _____
 
@@ -136,27 +163,40 @@
 ### Běh
 
 **5km:**
-- Čas: _____ min
-- Tempo: _____ min/km
-- Datum: _____
+- Čas: ~40 min (8:00 min/km tempo)
+- Tempo: 8:00 min/km
+- Datum: 2025 (estimated)
+- Cíl: Sub 25 min (5:00 min/km) - to je velký skok!
 
 **10km:**
-- Čas: _____ min (nebo "ještě neběžel")
-- Tempo: _____ min/km
+- Čas: Ještě neběžel (nebo dlouho neměřil)
+- Cíl: Sub 60 min dokončit
 - Datum: _____
 
+**Půlmaraton:**
+- Čas: 3h00min (loni 2024)
+- Tempo: ~8:30 min/km
+- Note: Dobrý výkon!
+
 **Pohodlné běžecké tempo:**
-- Tempo: _____ min/km
-- Srdeční tep: _____ bpm (pokud trackuješ)
+- Tempo: ~8:00 min/km (udržitelné)
+- Rychlé tempo (2km na vlak): 5:30 min/km (pak se týden vzpamatovává - příliš rychlé!)
+- Note: Gap mezi pohodlným a rychlým tempem je velký → potřeba conditioning work
+
+**Běžecké poznámky:**
+- 2km @ 5:30/km je moc rychlé (recovery trvá týden)
+- Optimální tempo pro současný stav: 7:30-8:00 min/km
+- Pro 5km sub 25min potřebuje: snížit váhu + zvýšit conditioning
 
 ---
 
 ### Outdoor
 
 **Výstup na Kleť:**
-- Čas: _____ min
-- Jak se cítil: _____
-- Datum: _____
+- Čas: 35 minut
+- Vzdálenost: 2km + 400m převýšení
+- Datum: 2025 (recent)
+- Note: Solidní performance! To je cca 100m převýšení za 8-9 minut.
 
 ---
 
@@ -177,25 +217,30 @@
 **Toe Touch (dotknout se prstů na nohou):**
 - [ ] Ano, snadno
 - [ ] Ano, s námahou
-- [ ] Téměř
-- [ ] Ne, daleko
-- Datum: _____
+- [x] Téměř / Ne, daleko (baseline test needed)
+- Datum: 2025-10-31
 
 **Shoulder Flexibility (overhead):**
-- [ ] Perfektní
-- [ ] Dobrá
-- [ ] Omezená
-- Poznámky: _____
+- [x] Dobrá (handstand hold 30s OK)
+- Poznámky: Supraspinatus issues pokud bez warm-upu!
 
 **Hip Flexibility:**
-- Deep squat (ass-to-grass): [ ] Ano / [ ] Ne
-- Pigeon pose (hold 30s+): [ ] Ano / [ ] Ne
-- Poznámky: _____
+- Deep squat (ass-to-grass): [x] Ano (ale s kompenzacemi)
+- Pigeon pose (hold 30s+): Baseline test needed
+- Poznámky: **PROBLÉMOVÁ OBLAST**
+  - Zkrácené adduktory stehen
+  - Omezená mobilita kyčlí
+  - V deep squatu kompenzuje propadnutím kotníků (volba, ne nutnost)
+  - Problém s tlakem břicha v deep squatu (tuk)
 
 **Wrist Mobility:**
-- [ ] Velmi dobrá
-- [ ] Průměrná
-- [ ] Omezená (bolest při planche/handstand)
+- [x] Průměrná/Dobrá (handstand 30s zvládá)
+- Note: Bude potřeba conditioning pro planche work
+
+**Ankle Mobility (Dorsiflexion):**
+- Status: Omezená
+- Note: Pravý kotník občas "klikne" při stretch → bolí pár dní
+- Postupný stretching, ne aggressive!
 
 ---
 
@@ -220,28 +265,51 @@ Váha | ___kg | ___kg | -___kg
 
 > Tyto hodnoty používá Claude pro plánování tréninků. Aktualizuj je průběžně!
 
-**Pull-ups working sets:** _____ reps (70-80% max)
-**Push-ups working sets:** _____ reps
-**Dips working sets:** _____ reps
+**Pull-ups working sets:** 3-4 reps (70-80% max z 5)
+**Push-ups working sets:** 12-15 reps (70-80% max z 19)
+**Dips working sets:** 3-4 reps (fresh), 3 reps (po pressing)
 
 **Preferovaná varianta pro:**
-- Pull-ups: [Standard / Wide / Close / Neutral grip]
-- Push-ups: [Standard / Diamond / Decline / Pike]
-- Squats: [Bodyweight / Bulgarian split / Box pistol / Pistol]
+- Pull-ups: Standard overhand grip (má historii se silovkou, zvyklý na klasiku)
+- Push-ups: Standard (baseline), pak progressions
+- Squats: Deep squat capable, needs pistol progression
+
+**Progrese Priority:**
+1. **Muscle up** - potřebuje dostat pull-ups z 5 → 12+ (KRITICKÉ)
+2. **Planche** - začít od planche lean (zatím nezvládá)
+3. **Front lever** - baseline test needed
+4. **Pistol squat** - má sílu (squat 145kg), needs technique
+5. **Handstand** - má hold, needs kick-up practice
 
 ---
 
 ## 📝 Poznámky
 
 **Silné stránky:**
-_____
+- Velmi dobrý silový základ (bench 105kg, trap DL 205kg při 102.6kg tělesné váze)
+- L-sit 15s je solidní core strength
+- Handstand hold 30s je dobrá stabilita
+- Zkušenosti se silovým tréninkem - zná progressive overload
+- Vytrvalost: půlmaraton za 3h, výstup na Kleť 35min
 
 **Slabé stránky (co zlepšovat):**
-_____
+- **Pull-ups:** Pouze 5 reps - potřeba výrazně zvýšit pro muscle up (cíl 12+)
+- **Planche:** Zatím nezvládá ani lean - needs základní conditioning
+- **Mobilita kyčlí:** Zkrácené adduktory, omezená ROM
+- **Běžecké tempo:** Velký gap mezi pohodlným (8:00/km) a rychlým (5:30/km) tempem
+- **Recovery po běhu:** Po rychlém běhu (5:30/km) recovery týden - needs conditioning
+- **Deficit conditioning:** V deficitu bude recovery pomalejší
 
 **Překvapivé objevy:**
-_____
+- S bench 105kg má "jen" 5 pull-ups → pull-ups jsou relative strength, bude rychle progredovat při weight loss
+- L-sit 15s je výborné vzhledem k tomu, že je nový v kalistenice
+- Handstand hold je solidní - vyšvihnutí se naučí rychle
+
+**Kontext:**
+- Rok silového tréninku → nyní přechod na kalisteniku
+- Současně váhový pokles 102.6kg → 85kg (-17.6kg)
+- V deficitu: očekávej neurální adaptace > hypertrofii, pomalejší recovery
 
 ---
 
-**Next test date:** [Datum za 4-6 týdnů]
+**Next test date:** 2025-12-15 (za 6 týdnů - po prvním mesocyklu)

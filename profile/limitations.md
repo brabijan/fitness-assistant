@@ -6,149 +6,166 @@
 
 ## 🏥 Aktuální Zranění nebo Bolesti
 
-**Last Updated:** [Datum]
+**Last Updated:** 2025-10-31
 
 ### Aktivní Problémy
 
-_Pokud máš aktuální bolesti nebo zranění:_
+**Problém 1: Supraspinatus (ramena)**
+- **Lokace:** Ramena (rotátorová manžeta, konkrétně supraspinatus)
+- **Typ bolesti:** Tupá/Tlaková při nedostatečném warm-upu
+- **Kdy bolí:** Pod zátěží při pressing cvicích (bench, overhead, dips) - POUZE pokud není přehřátá rotátorka
+- **Jak dlouho:** Dlouhodobá záležitost (chronická slabost/vulnerability)
+- **Co ho zhoršuje:** Pressing bez warm-upu, studené rameno
+- **Léčba/Management:** **POVINNÝ warm-up rotátorové manžety před JAKÝMKOLIV pressing cvičením**
+  - Band pull-aparts
+  - External rotations
+  - Shoulder dislocates
+  - Minimum 5-10 minut warm-up specificky pro ramena!
+- **Cviky které skipovat:** ŽÁDNÉ pressing cviky bez warm-upu!
 
-**Problém 1:**
-- **Lokace:** _____
-- **Typ bolesti:** [Ostrá/Tupá/Pálivá/Tlaková]
-- **Kdy bolí:** [V klidu/Při pohybu/Pod zátěží]
-- **Jak dlouho:** _____
-- **Co ho zhoršuje:** _____
-- **Léčba/Management:** _____
-- **Cviky které skipovat:** _____
-
-**Problém 2:**
-- **Lokace:** _____
-- _(Stejná struktura jako výše)_
+**Problém 2: Pravý kotník (dorsiflexion)**
+- **Lokace:** Pravý kotník
+- **Typ bolesti:** Ostrá bolest po "kliknutí" při aggressive dorsiflexion stretch
+- **Kdy bolí:** Občasně při dorsiflexion stretching, pak bolí pár dní po
+- **Jak dlouho:** Recidivující (opakuje se když přestretchuje)
+- **Co ho zhoršuje:** Aggressive stretching do dorsiflexion, jumping (pozor!)
+- **Léčba/Management:** Postupný, jemný stretching. NE aggressive!
+- **Cviky které opatrně:** Jumping, plyometrics, aggressive calf/ankle stretches
 
 ---
 
 ### Ramena
 
 - **Pravé rameno:**
-  - Status: [OK / Mírná bolest / Vážný problém]
-  - Poznámky: _____
-  - Omezení: _____
+  - Status: S opatrností - supraspinatus vulnerability
+  - Poznámky: Bolí při pressing BEZ warm-upu
+  - Omezení: **MUSÍ warm-up před pressing cviky!**
 
 - **Levé rameno:**
-  - Status: [OK / Mírná bolest / Vážný problém]
-  - Poznámky: _____
-  - Omezení: _____
+  - Status: S opatrností - supraspinatus vulnerability
+  - Poznámky: Stejné jako pravé
+  - Omezení: **MUSÍ warm-up před pressing cviky!**
 
-**Overhead work:** [OK / S opatrností / Vyhýbat se]
+**Overhead work:** OK s warm-upem! BEZ warm-upu = bolest
+**Handstand work:** OK (má handstand hold 30s bez problémů)
+**Planche work:** Bude potřeba conditioning postupně
 
 ---
 
 ### Lokty
 
 - **Pravý loket:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Typ: [Tennis elbow / Golfer's elbow / Jiné / Žádný]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Typ: Žádný problém
+  - Poznámky: Bez bolesti
 
 - **Levý loket:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Bez bolesti
 
-**Pulling exercises:** [OK / S opatrností / Modifikace potřebné]
+**Pulling exercises:** OK ✅ (má pull-ups 5 reps bez problémů)
 
 ---
 
 ### Zápěstí
 
 - **Pravé zápěstí:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Handstand 30s hold bez bolesti
 
 - **Levé zápěstí:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Handstand 30s hold bez bolesti
 
-**Planche/Handstand work:** [OK / Použít parallettes / Omezit]
+**Planche/Handstand work:** OK, ale bude potřeba wrist conditioning postupně pro planche
 
 ---
 
 ### Záda
 
 - **Dolní záda (lower back):**
-  - Status: [OK / Mírná bolest / Problém]
-  - Historie: _____
-  - Poznámky: _____
-  - Co pomáhá: _____
+  - Status: OK aktuálně ✅
+  - Historie: **Bolesti v minulosti při 135kg** (velmi tlusty), nyní při 102.6kg bez bolesti
+  - Poznámky: Snížení váhy výrazně pomohlo
+  - Co pomáhá: Udržování nižší váhy, postupná progrese na deadlifty
+  - **POZOR:** Při deficitu a weight loss sledovat, ale mělo by být OK
 
 - **Hrudní páteř (thoracic):**
-  - Status: [OK / Stiff / Bolest]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Bez problémů
 
-**Deadlifts/Squats:** [OK / S opatrností / Vyhýbat se]
+**Deadlifts/Squats:** OK s postupnou progresí ✅
+- Deadlift 1RM 160kg, Trap bar 2RM 205kg - zvládá
+- Squat 1RM 145kg - zvládá
+- S weight loss by měla záda být ještě lepší
 
 ---
 
 ### Kolena
 
 - **Pravé koleno:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Bez bolesti
 
 - **Levé koleno:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Poznámky: _____
+  - Status: OK ✅
+  - Poznámky: Bez bolesti
 
-**Jumping/Running:** [OK / S opatrností / Omezit]
-**Squats (plná hloubka):** [OK / S opatrností / Omezit hloubku]
+**Jumping/Running:** OK ✅ (pozor jen na kotník!)
+**Squats (plná hloubka):** OK ✅ - zvládá deep squat
 
 ---
 
 ### Kotníky
 
 - **Pravý kotník:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Mobilita: [Dobrá / Omezená]
+  - Status: ⚠️ S opatrností - recidivující "kliknutí"
+  - Mobilita: Omezená dorsiflexion
+  - **PROBLÉM:** Při aggressive stretch občas "klikne" → bolí pár dní
+  - **Management:** Postupný stretching, NE aggressive
 
 - **Levý kotník:**
-  - Status: [OK / Mírná bolest / Problém]
-  - Mobilita: [Dobrá / Omezená]
+  - Status: OK ✅
+  - Mobilita: Omezená (ale bez bolesti)
+
+**Note:** Chodí vyhradně bez bot (i v zimě), chodidlo silné, ale kotníky potřebují opatrnou práci na mobilitě.
 
 ---
 
 ## 📜 Historie Zranění
 
-_Minulá zranění, která už jsou vyléčená, ale mohou se vrátit:_
+**Zranění 1: Bolesti dolních zad**
+- Kdy: V minulosti při váze 135kg
+- Co to bylo: Chronické bolesti dolních zad kvůli nadváze
+- Jak dlouho trvalo: Dlouhodobě (dokud byl velmi tlusty)
+- Vyléčeno: Ano - snížením váhy na 102.6kg problém vymizel ✅
+- Preventivní opatření: Udržování nižší váhy, postupná progrese, sledovat během dalšího weight loss
 
-**Zranění 1:**
-- Kdy: _____
-- Co to bylo: _____
-- Jak dlouho trvalo: _____
-- Vyléčeno: [Ano / Občas se vrací]
-- Preventivní opatření: _____
-
-**Zranění 2:**
-- _(Stejná struktura)_
+**Note:** Žádná další historická zranění reportována.
 
 ---
 
 ## 🚫 Absolutní Kontraindikace
 
-_Cviky nebo pohyby, které NESMÍŠ dělat (např. kvůli doktorovi, chronickému problému):_
+_Žádné absolutní kontraindikace._
 
-1. _____
-2. _____
-3. _____
+**DŮLEŽITÉ PODMÍNKY (ne kontraindikace, ale MUSÍ):**
+1. **Pressing cviky POUZE s warm-upem ramena** (rotátorová manžeta)
+2. **Aggressive ankle stretching ZAKÁZÁN** (pravý kotník - riziko kliknutí)
 
 ---
 
 ## ⚠️ Cviky Vyžadující Opatrnost
 
-_Cviky které můžeš dělat, ale musíš být opatrný:_
-
 **Cvik** | **Důvod** | **Modifikace**
 ---------|-----------|---------------
-_____ | _____ | _____
-_____ | _____ | _____
+**Bench press** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up (10min min.), pak OK
+**Overhead press** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
+**Dips** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
+**Handstand push-ups** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
+**Jumping/Plyometrics** | Pravý kotník (klikání) | Postupná progrese, sledovat reakci
+**Aggressive ankle stretch** | Pravý kotník | Jemný, postupný stretching POUZE
+**Deep squats** | Mobilita kyčlí/adduktory | OK, ale pracovat na mobilitě paralelně
 
 ---
 
@@ -157,97 +174,162 @@ _____ | _____ | _____
 ### Oblasti s Omezenou Mobilitou
 
 **Ramena (overhead):**
-- Úroveň: [Dobrá / Průměrná / Špatná]
-- Poznámky: _____
-- Co dělat: _____
+- Úroveň: Dobrá ✅
+- Poznámky: Handstand hold 30s bez problémů s mobilitou
+- Co dělat: Udržovat s warm-upem, posílit rotátorku
 
-**Kyčle:**
-- Úroveň: [Dobrá / Průměrná / Špatná]
-- Poznámky: _____
-- Co dělat: _____
+**Kyčle:** ⚠️ **PRIORITNÍ PROBLÉM**
+- Úroveň: Špatná - omezená mobilita
+- Poznámky:
+  - Zkrácené adduktory stehen
+  - Omezená ROM v kyčlích
+  - V deep squatu kompenzuje propadnutím kotníků (volba, ne nutnost)
+  - Klenba je silná, problém je mobilita kyčlí, ne síla nohou
+- Co dělat:
+  - Pravidelný hip mobility work (90/90 stretch, pigeon pose, frog stretch)
+  - Adductor stretching (gentle!)
+  - Deep squat holds (pracovat na pattern)
+  - Goblet squats pro mobilitu
+  - DENNĚ mobility routine (10-15 min)
 
-**Kotníky:**
-- Úroveň: [Dobrá / Průměrná / Špatná]
-- Dopad: [Problém s deep squats / OK]
-- Co dělat: _____
+**Kotníky:** ⚠️
+- Úroveň: Omezená dorsiflexion (oba kotníky)
+- Dopad: V deep squatu kompenzuje, ale zvládá
+- Co dělat:
+  - **Pravý:** OPATRNÝ postupný stretching (riziko kliknutí!)
+  - **Levý:** Postupný stretching OK
+  - Calf stretches (gentle wall stretch)
+  - Squat holds s důrazem na dorsiflexion
+  - NE aggressive stretching!
 
 **Hamstringy:**
-- Úroveň: [Flexibilní / Průměrné / Tight]
-- Poznámky: _____
+- Úroveň: Baseline test needed (toe touch test)
+- Poznámky: Pravděpodobně tight (common při sedavém zaměstnání)
 
 **Thoracic spine:**
-- Úroveň: [Mobilní / Stiff]
-- Poznámky: _____
+- Úroveň: OK/Mobilní ✅ (handstand work naznačuje OK)
+- Poznámky: Bez problémů
+
+**Adduktory:** ⚠️ **PROBLÉM**
+- Úroveň: Tight/Zkrácené
+- Poznámky: Limitují deep squat
+- Co dělat: Cosack squats, side lunges, frog stretch
 
 ---
 
 ## 💊 Zdravotní Stav
 
 ### Chronická Onemocnění
-_Např. astma, cukrovka, srdeční problémy:_
-
-_____
+Žádná chronická onemocnění reportována. ✅
 
 ### Alergie
-_Relevantní pro trénink nebo výživu:_
-
-_____
+Žádné alergie relevantní pro trénink nebo výživu. ✅
 
 ### Medikace
-_Léky které bereš a mohou ovlivnit trénink:_
+Žádná medikace reportována. ✅
 
-_____
+**Historie váhy:**
+- Maximum: 135kg (bolesti zad)
+- Aktuálně: 102.6kg (bez bolestí)
+- Cíl: 85kg
 
 ---
 
 ## 🔧 Prehab & Rehab Rutiny
 
-_Co děláš pro prevenci nebo léčbu problémů:_
+### Denní Mobility Routine (POTŘEBA VYTVOŘIT!)
+**Doporučuji:**
+1. **Shoulder warm-up** (PŘED každým pressing tréninkem - 10 min)
+   - Band pull-aparts: 2×15
+   - External rotations: 2×12
+   - Shoulder dislocates: 2×10
+   - Arm circles
 
-### Denní Mobility Routine
-_____
+2. **Hip mobility** (DENNĚ - 10-15 min)
+   - 90/90 stretch: 2×60s each side
+   - Pigeon pose: 2×60s each side
+   - Frog stretch: 2×60s
+   - Deep squat hold: 2-3×30s
+
+3. **Ankle mobility** (GENTLE! - 5 min)
+   - Wall calf stretch: 2×30s each leg
+   - Ankle circles
+   - Deep squat holds
 
 ### Specific Rehab Exercises
-_____
+**Rotátorová manžeta strengthening:**
+- Face pulls: 3×15 (lehké váhy)
+- Band external rotations: 3×12
+- Cuban press (lehké)
 
 ### Foam Rolling / Masáže
-_____
+- Baseline: Nespecifikováno
+- Doporučuji: Adduktory, hip flexors, calves
 
 ---
 
 ## 📊 Tracking Bolestí
 
-_Pokud máš recidivující bolest, trackuj ji:_
-
 **Datum** | **Lokace** | **Intenzita (1-10)** | **Kontext** | **Co pomohlo**
 ----------|------------|----------------------|-------------|---------------
-_____ | _____ | _____ | _____ | _____
+2025-10-31 | Ramena (baseline) | N/A | S warm-upem OK | Shoulder warm-up MUSÍ
+2025-10-31 | Pravý kotník (baseline) | N/A | Občasné kliknutí | Gentle stretching
 
 ---
 
 ## 📝 Poznámky pro Claude
 
 **Důležité reminders:**
-_____
+1. ⛔ **NIKDY pressing cviky bez shoulder warm-up!** (10 min min.)
+2. ⚠️ Pravý kotník - GENTLE stretching POUZE
+3. ✅ Kyčle/adduktory - pravidelná mobility work DENNĚ
+4. ✅ Během weight loss sledovat záda (historie bolestí při 135kg)
+5. ✅ V deficitu: pomalejší recovery, očekávej neurální adaptace > hypertrofii
 
 **Red flags (okamžitě stop trénink pokud):**
-_____
+- ⛔ Ramena bolí i PO warm-upu → STOP pressing
+- ⛔ Pravý kotník "klikne" → STOP ankle work na několik dní
+- ⛔ Lower back bolest → STOP deadlifts/squats, check
+- ⛔ Jakákoliv ostrá bolest v kloubech
 
 **Preferované modifikace:**
-_____
+- Pressing: Vždy s warm-upem (ne-negotiable)
+- Ankle work: Gentle, postupný (NE aggressive)
+- Hip mobility: Daily routine (consistency > intenzita)
+- Planche: Postupná progrese (wrist conditioning first)
 
 ---
 
 ## ✅ Safety Checklist
 
-- [ ] Všechna aktuální zranění/bolesti popsané
-- [ ] Historie zranění complete
-- [ ] Kontraindikace jasně definované
-- [ ] Mobility issues identifikované
-- [ ] Claude ví, co skipovat nebo upravit
+- [x] Všechna aktuální zranění/bolesti popsané (ramena, pravý kotník)
+- [x] Historie zranění complete (záda při 135kg)
+- [x] Kontraindikace jasně definované (pressing bez warm-up, aggressive ankle stretch)
+- [x] Mobility issues identifikované (kyčle, adduktory, kotníky - PRIORITNÍ)
+- [x] Claude ví, co skipovat nebo upravit (shoulder warm-up MUSÍ, gentle ankle work)
 
 ---
 
 **Důležité:** Aktualizuj tento soubor OKAMŽITĚ pokud se objeví nová bolest nebo zranění!
 
-**Last updated:** [Datum]
+**Last updated:** 2025-10-31
+
+---
+
+## 🎯 Summary pro Claude - KRITICKÉ BODY
+
+**VŽDY PŘED TRÉNINKEM CHECK:**
+1. ⛔ **Pressing dnes?** → Shoulder warm-up 10 min MUSÍ!
+2. ⚠️ **Ankle work dnes?** → GENTLE stretching POUZE!
+3. ✅ **Hip mobility included?** → Daily routine recommended
+
+**BĚHEM TRÉNINKU - RED FLAGS:**
+- Ramena bolí I PO warm-upu → STOP pressing immediately
+- Kotník "klikne" → STOP ankle work, rest několik dní
+- Lower back bolest → STOP deadlifts/squats
+- Ostrá bolest v jakémkoliv kloubu → STOP okamžitě
+
+**LONG-TERM MONITORING:**
+- Weight loss progress (sledovat záda - historie při 135kg)
+- Deficit recovery (bude pomalejší)
+- Hip mobility improvement (denní rutina)
