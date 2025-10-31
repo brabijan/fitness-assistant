@@ -147,10 +147,14 @@
 - Timeline: 3-6 měsíců s progresí
 
 **Pistol Squat:**
-- **Pravá noha:** Baseline test needed | Max reps: _____
-- **Levá noha:** Baseline test needed | Max reps: _____
-- Datum: _____
+- **Pravá noha:** 1+ rep (s elevated patou) | Max reps: 1+
+- **Levá noha:** 1+ rep (s elevated patou) | Max reps: 1+
+- Datum: 2025-10-31
 - Note: Priorita 4/5. Má squat 145kg, deep squat zvládá (s kompenzací).
+- **Limitující faktory:**
+  - Ankle mobility (potřebuje elevated pata)
+  - Hip flexor compression v hlubokém squatu
+  - Má sílu (squat 145kg), needs mobilita + technika
 
 **Handstand Push-up:**
 - Status: Baseline test needed (Má handstand hold 30s, takže možná pike push-ups zvládá)
@@ -216,10 +220,12 @@
 ## 🧘 Mobilita a Flexibility
 
 **Toe Touch (dotknout se prstů na nohou):**
-- [ ] Ano, snadno
-- [ ] Ano, s námahou
-- [x] Téměř / Ne, daleko (baseline test needed)
+- **S propnutými koleny:** ❌ NE - sciatic nerve tahá (bolí)
+- **S lehce pokrčenými koleny:** ✅ ANO - prsty na zem, po stretch i dlaň!
 - Datum: 2025-10-31
+- **DŮLEŽITÉ:** NENÍ TO TIGHT HAMSTRINGS! Hamstring flexibility je vlastně DOBRÁ!
+- **Skutečný problém:** Sciatic nerve sensitivity (neural tension)
+- **Důsledky pro stretching:** Pouze bent-knee hamstring stretches! NE straight leg stretches!
 
 **Shoulder Flexibility (overhead):**
 - [x] Dobrá (handstand hold 30s OK)
@@ -317,6 +323,68 @@ Váha | ___kg | ___kg | -___kg
 - Složení: 250mg kofein + stimulanty (L-citrullin-malát, beta-alanin, taurin, tyrosin, atd.)
 - → Tolerance stimulantů je pravděpodobně dobrá
 - → Může zvládat vyšší intenzitu při usage
+
+---
+
+## 💊 Medikace & Denní Suplementace
+
+### Medikace
+
+**Concerta (methylphenidate) - ADHD** ⚠️
+- **Dávka:** (dávka neuvedena)
+- **Timing:** Ráno (každý den)
+- **Účinky relevantní pro trénink:**
+  - ⚠️ **Snižuje chuť k jídlu** - KRITICKÉ v kalorickém deficitu!
+  - ⚠️ Zvyšuje srdeční frekvenci (ovlivní cardio a recovery monitoring)
+  - ⚠️ Může ovlivnit recovery (stimulant effect)
+- **Důsledky pro plánování:**
+  - Monitorovat skutečný příjem jídla (risk podvýživy v deficitu)
+  - HRV a resting HR budou ovlivněny medikací
+  - Recovery může být komplikovanější
+
+---
+
+### Denní Suplementační Stack
+
+**RÁNO:**
+- **Creatine:** 8g (polovina denní dávky)
+- **Magnesium:** 300mg
+- **Liposomal multivitamin:** (dávka dle balení)
+- **Ashwagandha KSM66:** (dávka dle balení)
+- **Krill oil:** (dávka dle balení)
+- **Vitamin D3:** (dávka dle balení)
+- **Concerta:** (medikace - ADHD)
+
+**VEČER:**
+- **Creatine:** 8g (druhá polovina)
+- **Magnesium:** 300mg
+- **Zinc:** (dávka dle balení)
+- **Ashwagandha KSM66:** (dávka dle balení)
+- **Krill oil:** (dávka dle balení)
+
+**CELKEM ZA DEN:**
+- **Creatine:** 16g/den (vyšší dávka "pro efekt na mozek" - kognitivní benefit)
+- **Magnesium:** 600mg/den
+- **Ashwagandha:** 2× denně
+- **Krill oil (omega-3):** 2× denně
+
+---
+
+### Vliv Suplementace na Spánek a Recovery
+
+**KRITICKÉ ZJIŠTĚNÍ:** ⚠️
+> "Kdyz suplementuju celej tenhle stack, tak mam spanek uplne skvelej. Kdyz suplementy dojdou, tak vetsinou je to horsi."
+
+**Důsledky:**
+- Kvalita spánku je **silně závislá** na konzistentní suplementaci
+- Bez suplementů → horší spánek → horší recovery → adjustace tréninku nutná
+- **Priorita:** Udržovat konzistentní zásoby suplementů!
+- **Risk management:** Pokud dojdou suplementy → snížit tréninkový objem/intenzitu do doby, než se spánek stabilizuje
+
+**Monitoring:**
+- Trackovat sleep quality daily (Apple Watch screenshot)
+- Korelovat s compliance suplementace
+- Adjustovat trénink podle sleep quality
 
 ---
 

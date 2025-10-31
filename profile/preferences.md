@@ -415,11 +415,20 @@ _____
 - Občas "Králičí krev" (250mg kofein + stimulanty) před tréninkem
 
 **Omezení:**
-- [x] **Žádné omezení** ✅ (jí všechno)
+- [ ] Žádné omezení
 - [ ] Vegetarián
 - [ ] Vegan
 - [ ] Bez laktózy
 - [ ] Bez glutenu
+
+**Stravovací preference a omezení:**
+- ⚠️ **VYBÍRAVÝ V JÍDLE** - Důležité pro plánování deficitu!
+- **Zelenina:**
+  - ❌ **Nejedí většinu vařené zeleniny** - Major limitation!
+  - ✅ **Ze syrové zvládá:** Rajčata, mrkev (POUZE tyto!)
+  - Concerns: Omezený příjem vlákniny a mikronutrientů
+- **Protein sources:** Bez problémů (vejce, maso, ryby, mléčné výrobky OK)
+- **Sacharidy:** Bez problémů (rýže, těstoviny OK)
 
 **Nápoje:**
 - Primárně: Voda
@@ -433,6 +442,82 @@ _____
   - Při 85kg (cíl) = ~170g proteinu denně
 - **Hydratace:** 2-3L denně
 - Detaily v `nutrition/notes.md`
+
+---
+
+### ⚠️ RIZIKA v Kalorickém Deficitu - Vybíravost v Jídle
+
+**KRITICKÝ CONTEXT:** Kombinace vybíravosti v jídle + kaloriský deficit + Concerta (snižuje chuť k jídlu) = VYSOKÉ RIZIKO problémů!
+
+**Primární rizika:**
+
+**1. Nedostatečná vláknina (Fiber)** ⚠️
+- **Problém:** Nejedí většinu zeleniny (hlavní zdroj vlákniny)
+- **Důsledky:**
+  - Zácpa (constipation) - velmi pravděpodobná v deficitu
+  - Špatná sytost → větší hlad → těžší držet deficit
+  - Horší trávení
+  - Pomalejší metabolismus
+- **Řešení:**
+  - Prioritizovat syrovou mrkev/rajčata (co zvládá)
+  - Ovoce (50g mix frozen už jí) - zvýšit možná na 100-150g?
+  - Celozrnné sacharidy (rýže → celozrnná rýže, těstoviny → celozrnné)
+  - Psyllium husk supplementace (pokud nutné)
+  - **Target:** Min. 25-30g vlákniny denně
+
+**2. Nedostatečné mikronutrienty** ⚠️
+- **Problém:** Zelenina = hlavní zdroj vitaminů, minerálů, antioxidantů
+- **Důsledky:**
+  - Horší recovery (vitaminy B, C, E, K)
+  - Oslabená imunita (vitamin C, zinc - má suplementaci!)
+  - Horší regenerace tkání
+  - Únava, brain fog
+- **Ochrana:**
+  - ✅ Už má liposomal multivitamin (GOOD!)
+  - ✅ Už má krill oil (omega-3)
+  - ✅ Už má magnesium, zinc
+  - Continue s konzistentní suplementací!
+
+**3. Nedostatečná satiety (sytost)** ⚠️
+- **Problém:** Zelenina = high volume, low calories → sytost bez kalorií
+- **Důsledky:**
+  - Těžší držet deficit (větší hlad)
+  - Risk "cheat meals" nebo přejídání
+  - Horší adherence k plánu
+- **Strategie:**
+  - Zvýšit protein (already high - GOOD!)
+  - Zvýšit objem jídel: více syrové zeleniny (mrkev, rajčata)
+  - Pít hodně vody (2-3L)
+  - Fiber supplementace pokud nutné
+
+**4. Trávicí problémy v deficitu** ⚠️
+- **Problém:** Deficit + málo vlákniny = zácpa téměř garantovaná
+- **Monitoring:**
+  - Sledovat trávení (jak často, konzistence)
+  - Pokud zácpa → zvýšit vlákninu ASAP
+  - Pokud průjem → možná moc vlákniny najednou
+- **Red flags:**
+  - Méně než 1× denně
+  - Tvrdá stolice
+  - Bolesti břicha
+
+**5. Concerta + Deficit + Vybíravost = TRIPLE THREAT** ⚠️⚠️⚠️
+- **Concerta** snižuje chuť k jídlu
+- **Deficit** vyžaduje eating less
+- **Vybíravost** omezuje food choices
+- **→ VYSOKÉ RIZIKO:** Nedostatečný příjem celkově!
+- **MONITORING KRITICKÉ:**
+  - Trackovat SKUTEČNÝ příjem jídla (ne jen odhady)
+  - Sledovat energii, výkon, recovery
+  - Pokud fatigue, brain fog, výkon padá → jíst VÍCE!
+
+**Action Items:**
+1. ✅ Udržovat konzistentní supplement stack (má DOBRÝ stack!)
+2. ⚠️ Zvýšit příjem syrové zeleniny (mrkev, rajčata) - co nejvíce
+3. ⚠️ Ovoce: Zvýšit z 50g na 100-150g denně (fiber + mikronutrienty)
+4. ⚠️ Celozrnné varianty: Rýže, těstoviny, chléb pokud jí
+5. ⚠️ Sledovat trávení - pokud zácpa → fiber supplementace (psyllium)
+6. ⚠️ Monitoring: Energie, hlad, výkon - adjustovat kalorie podle potřeby!
 
 ---
 

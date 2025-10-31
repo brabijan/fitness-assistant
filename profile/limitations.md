@@ -34,6 +34,55 @@
 - **Léčba/Management:** Postupný, jemný stretching. NE aggressive!
 - **Cviky které opatrně:** Jumping, plyometrics, aggressive calf/ankle stretches
 
+**Problém 3: Peroneus brevis + Tibialis posterior (AKTIVNÍ - PO BĚHU)** ⚠️
+- **Lokace:** Lýtka/nohy - peroneus brevis (fibulární sval) + tibialis posterior
+- **Typ bolesti:** Bolest z přetížení po posledním rychlém běhu
+- **Kdy bolí:** Po rychlém/intenzivním běhu
+- **Jak dlouho:** AKTUÁLNĚ AKTIVNÍ
+- **Co ho zhoršuje:** Rychlý běh, nedostatečná regenerace lýtek
+- **Léčba/Management:** 🏥 **Fyzioterapeut naordinoval:**
+  - **Masírovat lýtka** - jsou permanentně ztuhlá
+  - Podpora regenerace
+  - Gentle stretching, ne aggressive
+- **Cviky které skipovat/modifikovat:**
+  - Rychlý běh - zatím NE!
+  - Tempo běh: Max 7:30-8:00 min/km (pohodlné tempo)
+  - Plyometrics: S opatrností
+
+**Problém 4: Lýtka permanentně ztuhlá** ⚠️
+- **Lokace:** Obě lýtka (gastrocnemius + soleus)
+- **Typ problému:** Chronická tuhost
+- **Souvislost:** Přispívá k problémům s peroneus/tibialis
+- **Léčba/Management:** 🏥 Fyzioterapeut:
+  - **Denní masáže lýtek** (foam rolling, ruční masáž)
+  - Gentle calf stretches (ne aggressive!)
+  - Warm-up před během MUSÍ zahrnovat lýtka
+- **Dopad:** Ovlivňuje mobilitu kotníků, běh
+
+**Problém 5: Levá ruka přetížení (po lezení)**
+- **Lokace:** LEVÁ ruka - brachioradialis, brachialis, biceps
+- **Typ problému:** Přetížení po lezení na strom (poslední případ)
+- **Jak dlouho trvalo:** Týden přetížené
+- **Souvislost:** Stejná strana jako problémové LEVÉ rameno!
+- **Management:**
+  - Postupná progrese při pull work
+  - Sledovat volume na levé straně
+  - Možná slabší než pravá (bilateral imbalance?)
+- **Cviky opatrně:** Climbing, heavy pull-ups (sledovat levou)
+
+**Problém 6: Sciatic nerve sensitivity** ⚠️
+- **Lokace:** Sciatic nerve (zadní strana nohy)
+- **Typ problému:** Neural tension při straight leg stretches
+- **Kdy se projevuje:**
+  - Toe touch s **propnutými koleny** → sciatic nerve tahá (bolí/nepříjemné)
+  - Toe touch s **lehce pokrčenými** koleny → OK! (Prsty na zem, po stretch i dlaň)
+- **Důležité:** **NENÍ TO TIGHT HAMSTRINGS!** Hamstring flexibility je vlastně dobrá!
+- **Management:**
+  - Hamstring stretches s **bent knees** (flossing neural tension)
+  - NE straight leg stretches (zhoršuje neural tension)
+  - Sciatic nerve flossing exercises
+- **Cviky modifikovat:** Deadlifts, RDL - sledovat neural symptoms
+
 ---
 
 ### Ramena
@@ -153,8 +202,10 @@
 _Žádné absolutní kontraindikace._
 
 **DŮLEŽITÉ PODMÍNKY (ne kontraindikace, ale MUSÍ):**
-1. **Pressing cviky POUZE s warm-upem ramena** (rotátorová manžeta)
+1. **Pressing cviky POUZE s warm-upem ramena** (rotátorová manžeta - LEVÉ!)
 2. **Aggressive ankle stretching ZAKÁZÁN** (pravý kotník - riziko kliknutí)
+3. **Rychlý běh ZAKÁZÁN** (aktivní peroneus/tibialis problém - fyzioterapeut!)
+4. **Denní masáže lýtek POVINNÉ** (permanentně ztuhlá - fyzioterapeut!)
 
 ---
 
@@ -162,13 +213,18 @@ _Žádné absolutní kontraindikace._
 
 **Cvik** | **Důvod** | **Modifikace**
 ---------|-----------|---------------
-**Bench press** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up (10min min.), pak OK
-**Overhead press** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
-**Dips** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
-**Handstand push-ups** | Supraspinatus vulnerability | POVINNÝ shoulder warm-up, pak OK
-**Jumping/Plyometrics** | Pravý kotník (klikání) | Postupná progrese, sledovat reakci
+**Bench press** | Supraspinatus (LEVÉ rameno) | POVINNÝ shoulder warm-up (10min min.), pak OK
+**Overhead press** | Supraspinatus (LEVÉ rameno) | POVINNÝ shoulder warm-up, pak OK
+**Dips** | Supraspinatus (LEVÉ rameno) | POVINNÝ shoulder warm-up, pak OK
+**Handstand push-ups** | Supraspinatus (LEVÉ rameno) | POVINNÝ shoulder warm-up, pak OK
+**Běh (rychlý >6:00/km)** | **AKTIVNÍ peroneus/tibialis** | ⛔ ZAKÁZÁNO dokud nevyléčí! Max 7:30-8:00/km
+**Běh (pohodlný)** | Lýtka ztuhlá, peroneus risk | MUSÍ warm-up lýtek, masáž před během
+**Jumping/Plyometrics** | Pravý kotník + peroneus/tibialis | Postupná progrese, OPATRNĚ, sledovat bolest
 **Aggressive ankle stretch** | Pravý kotník | Jemný, postupný stretching POUZE
 **Deep squats** | Mobilita kyčlí/adduktory | OK, ale pracovat na mobilitě paralelně
+**Straight leg hamstring stretch** | Sciatic nerve tension | ⛔ NE! Použít bent knee variations
+**Pull-ups (heavy)** | Levá ruka přetížení | Sledovat volume levé strany, možná bilateral imbalance
+**Climbing** | Levá ruka přetížení | Postupná progrese, levá slabší než pravá
 
 ---
 
@@ -206,8 +262,16 @@ _Žádné absolutní kontraindikace._
   - NE aggressive stretching!
 
 **Hamstringy:**
-- Úroveň: Baseline test needed (toe touch test)
-- Poznámky: Pravděpodobně tight (common při sedavém zaměstnání)
+- Úroveň: **DOBRÁ flexibility!** ✅ (NENÍ to tight hamstrings!)
+- **Toe touch test:**
+  - S **propnutými koleny:** NE (sciatic nerve tahá) ❌
+  - S **lehce pokrčenými:** ANO - prsty na zem ✅
+  - Po strečování: I celou dlaň ✅
+- **Problém:** **Sciatic nerve tension** (neural, ne musculo-skeletal!)
+- **Co dělat:**
+  - Hamstring stretches s **bent knees** POUZE
+  - Sciatic nerve flossing exercises
+  - **NE straight leg stretches** (zhoršuje neural tension)
 
 **Thoracic spine:**
 - Úroveň: ⚠️ **ZTUHLÁ** (Stiff) - POTŘEBA PRÁCE!
@@ -234,7 +298,13 @@ _Žádné absolutní kontraindikace._
 Žádné alergie relevantní pro trénink nebo výživu. ✅
 
 ### Medikace
-Žádná medikace reportována. ✅
+**Concerta** (methylphenidate) - ADHD medikace ⚠️
+- **Užívá:** Ráno (každý den)
+- **Dopad na trénink:**
+  - Sníží chuť k jídlu (POZOR v deficitu!)
+  - Zvýší srdeční frekvenci
+  - Může ovlivnit recovery
+- **Poznámka:** Detaily viz `current-stats.md`
 
 **Historie váhy:**
 - Maximum: 135kg (bolesti zad)
@@ -272,6 +342,19 @@ _Žádné absolutní kontraindikace._
    - Ankle circles: 10 každým směrem
    - Deep squat holds
 
+5. **Lýtka masáže** (DENNĚ - 10 min) ⚠️ **POVINNÉ - FYZIOTERAPEUT!**
+   - **Důvod:** Permanentně ztuhlá lýtka → přetížení peroneus/tibialis
+   - **Metoda:**
+     - Foam rolling lýtek: 2×60s each leg
+     - Ruční masáž gastrocnemius + soleus
+     - Tlakové body (trigger points)
+   - **PŘED během:** MUSÍ warm-up + masáž lýtek!
+
+6. **Sciatic nerve flossing** (DENNĚ - 5 min) ⚠️
+   - Seated sciatic nerve floss: 2×10 each leg
+   - Supine sciatic nerve floss: 2×10 each leg
+   - **DŮLEŽITÉ:** Gentle! Ne aggressive stretching
+
 ### Specific Rehab Exercises
 **Rotátorová manžeta strengthening:**
 - Face pulls: 3×15 (lehké váhy)
@@ -296,35 +379,69 @@ _Žádné absolutní kontraindikace._
 ## 📝 Poznámky pro Claude
 
 **Důležité reminders:**
-1. ⛔ **NIKDY pressing cviky bez shoulder warm-up!** (10 min min.)
-2. ⚠️ Pravý kotník - GENTLE stretching POUZE
-3. ✅ Kyčle/adduktory - pravidelná mobility work DENNĚ
-4. ✅ Během weight loss sledovat záda (historie bolestí při 135kg)
-5. ✅ V deficitu: pomalejší recovery, očekávej neurální adaptace > hypertrofii
+1. ⛔ **NIKDY pressing cviky bez shoulder warm-up!** (LEVÉ rameno - 10 min min.)
+2. ⛔ **RYCHLÝ BĚH ZAKÁZÁN!** (aktivní peroneus/tibialis - fyzioterapeut!)
+3. ⛔ **DENNĚ masáže lýtek!** (permanentně ztuhlá - fyzioterapeut!)
+4. ⚠️ Pravý kotník - GENTLE stretching POUZE
+5. ⚠️ Sciatic nerve - NE straight leg stretches, POUZE bent knee
+6. ⚠️ Levá ruka - sledovat volume při pulling (slabší než pravá)
+7. ✅ Kyčle/adduktory - pravidelná mobility work DENNĚ
+8. ✅ Během weight loss sledovat záda (historie bolestí při 135kg)
+9. ✅ V deficitu: pomalejší recovery, očekávej neurální adaptace > hypertrofii
+10. ⚠️ Concerta (ADHD medikace) - sníží chuť k jídlu, sledovat příjem v deficitu!
 
 **Red flags (okamžitě stop trénink pokud):**
 - ⛔ **LEVÉ rameno** bolí i PO warm-upu → STOP pressing immediately
 - ⛔ Pravé rameno začne bolet (nové!) → STOP pressing, check co se děje
+- ⛔ **Peroneus/tibialis bolest při běhu** → STOP běh okamžitě, masáž lýtek
+- ⛔ **Rychlý běh (>6:00/km)** → ZAKÁZÁNO dokud aktivní problém!
 - ⛔ Pravý kotník "klikne" → STOP ankle work na několik dní
+- ⛔ **Levá ruka bolí při pulling** → STOP nebo snížit volume
+- ⛔ **Sciatic nerve tahá/bolí** → STOP straight leg stretches
 - ⛔ Lower back bolest → STOP deadlifts/squats, check
 - ⛔ Jakákoliv ostrá bolest v kloubech
 - ⚠️ Thoracic spine stiffness zhoršuje → přidat více mobility work
 
 **Preferované modifikace:**
-- Pressing: Vždy s warm-upem (ne-negotiable)
-- Ankle work: Gentle, postupný (NE aggressive)
-- Hip mobility: Daily routine (consistency > intenzita)
-- Planche: Postupná progrese (wrist conditioning first)
+- **Pressing:** Vždy s shoulder warm-upem (LEVÉ rameno - ne-negotiable)
+- **Běh:** POUZE pohodlné tempo 7:30-8:00/km, warm-up + masáž lýtek PŘED
+- **Hamstring stretches:** POUZE bent knee variations (sciatic nerve!)
+- **Ankle work:** Gentle, postupný (NE aggressive)
+- **Pulling:** Sledovat levou ruku, možná bilateral imbalance
+- **Hip mobility:** Daily routine (consistency > intenzita)
+- **Lýtka:** DENNĚ masáže (foam rolling + ruční)
+- **Planche:** Postupná progrese (wrist conditioning first)
 
 ---
 
 ## ✅ Safety Checklist
 
-- [x] Všechna aktuální zranění/bolesti popsané (ramena, pravý kotník)
+- [x] Všechna aktuální zranění/bolesti popsané:
+  - ✅ LEVÉ rameno (supraspinatus)
+  - ✅ Pravý kotník (recidivující kliknutí)
+  - ✅ **Peroneus/tibialis (AKTIVNÍ - po běhu!)**
+  - ✅ **Lýtka permanentně ztuhlá**
+  - ✅ **Levá ruka přetížení (po lezení)**
+  - ✅ **Sciatic nerve tension**
 - [x] Historie zranění complete (záda při 135kg)
-- [x] Kontraindikace jasně definované (pressing bez warm-up, aggressive ankle stretch)
-- [x] Mobility issues identifikované (kyčle, adduktory, kotníky - PRIORITNÍ)
-- [x] Claude ví, co skipovat nebo upravit (shoulder warm-up MUSÍ, gentle ankle work)
+- [x] Medikace (Concerta - ADHD)
+- [x] Kontraindikace jasně definované:
+  - ✅ Pressing bez warm-up
+  - ✅ Aggressive ankle stretch
+  - ✅ **Rychlý běh (>6:00/km) ZAKÁZÁN!**
+  - ✅ Straight leg hamstring stretches
+- [x] Mobility issues identifikované:
+  - ✅ Kyčle, adduktory
+  - ✅ Kotníky (dorsiflexion)
+  - ✅ Hrudní páteř (ztuhlá)
+  - ✅ **Lýtka (PRIORITY - denní masáže!)**
+  - ✅ Sciatic nerve (ne hamstrings!)
+- [x] Claude ví, co skipovat nebo upravit:
+  - ✅ Shoulder warm-up MUSÍ (LEVÉ)
+  - ✅ Gentle ankle work
+  - ✅ **Denní masáže lýtek (fyzioterapeut!)**
+  - ✅ **Běh POUZE pohodlné tempo**
+  - ✅ Sledovat levou ruku při pulling
 
 ---
 
@@ -337,19 +454,30 @@ _Žádné absolutní kontraindikace._
 ## 🎯 Summary pro Claude - KRITICKÉ BODY
 
 **VŽDY PŘED TRÉNINKEM CHECK:**
-1. ⛔ **Pressing dnes?** → Shoulder warm-up 10 min MUSÍ!
-2. ⚠️ **Ankle work dnes?** → GENTLE stretching POUZE!
-3. ✅ **Hip mobility included?** → Daily routine recommended
+1. ⛔ **Pressing dnes?** → Shoulder warm-up 10 min MUSÍ! (LEVÉ rameno)
+2. ⛔ **Běh dnes?** → ⛔ ZAKÁZÁN rychlý běh! Max 7:30-8:00/km. Masáž lýtek PŘED!
+3. ⛔ **Denně masáže lýtek!** → Fyzioterapeut naordinoval (permanentně ztuhlá)
+4. ⚠️ **Ankle work dnes?** → GENTLE stretching POUZE!
+5. ⚠️ **Hamstring stretches?** → POUZE bent knee! NE straight leg (sciatic nerve)
+6. ✅ **Hip + thoracic mobility included?** → Daily routine recommended
 
 **BĚHEM TRÉNINKU - RED FLAGS:**
-- **LEVÉ rameno** bolí I PO warm-upu → STOP pressing immediately
-- Pravé rameno začne bolet (nové!) → STOP, check
-- Kotník "klikne" → STOP ankle work, rest několik dní
-- Lower back bolest → STOP deadlifts/squats
-- Ostrá bolest v jakémkoliv kloubu → STOP okamžitě
+- ⛔ **LEVÉ rameno** bolí I PO warm-upu → STOP pressing immediately
+- ⛔ **Peroneus/tibialis bolest při běhu** → STOP okamžitě, masáž lýtek
+- ⛔ **Rychlý běh (>6:00/km)** → ZAKÁZÁNO! (aktivní problém)
+- ⛔ **Levá ruka bolí při pulling** → STOP nebo snížit volume (bilateral imbalance?)
+- ⛔ **Sciatic nerve tahá** → STOP straight leg stretches
+- ⛔ Pravé rameno začne bolet (nové!) → STOP, check
+- ⛔ Kotník "klikne" → STOP ankle work, rest několik dní
+- ⛔ Lower back bolest → STOP deadlifts/squats
+- ⛔ Ostrá bolest v jakémkoliv kloubu → STOP okamžitě
 
 **LONG-TERM MONITORING:**
+- **Peroneus/tibialis recovery** (AKTIVNÍ problém - sledovat!)
+- **Lýtka stiffness** (denní masáže, foam rolling)
+- **Levá ruka vs pravá** (bilateral imbalance při pulling?)
+- **Sciatic nerve** (neural tension, ne tight hamstrings)
 - Weight loss progress (sledovat záda - historie při 135kg)
-- Deficit recovery (bude pomalejší)
+- Deficit recovery (bude pomalejší + Concerta sníží chuť k jídlu!)
 - Hip mobility improvement (denní rutina)
-- **Thoracic spine mobility** (ztuhlá - daily work needed!)
+- Thoracic spine mobility (ztuhlá - daily work needed!)
