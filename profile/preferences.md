@@ -521,6 +521,68 @@ _____
 
 ---
 
+## 💊 Medikace & Denní Suplementace
+
+### Medikace
+
+**Concerta (methylphenidate) - ADHD** ⚠️
+- **Dávka:** (dávka neuvedena)
+- **Timing:** Ráno (každý den)
+- **Účinky relevantní pro trénink:**
+  - ⚠️ **Snižuje chuť k jídlu** - KRITICKÉ v kalorickém deficitu!
+  - ⚠️ Zvyšuje srdeční frekvenci (ovlivní cardio a recovery monitoring)
+  - ⚠️ Může ovlivnit recovery (stimulant effect)
+- **Důsledky pro plánování:**
+  - Monitorovat skutečný příjem jídla (risk podvýživy v deficitu)
+  - HRV a resting HR budou ovlivněny medikací
+  - Recovery může být komplikovanější
+
+---
+
+### Denní Suplementační Stack
+
+**RÁNO:**
+- **Creatine:** 8g (polovina denní dávky)
+- **Magnesium:** 300mg
+- **Liposomal multivitamin:** (dávka dle balení)
+- **Ashwagandha KSM66:** (dávka dle balení)
+- **Krill oil:** (dávka dle balení)
+- **Vitamin D3:** (dávka dle balení)
+- **Concerta:** (medikace - ADHD)
+
+**VEČER:**
+- **Creatine:** 8g (druhá polovina)
+- **Magnesium:** 300mg
+- **Zinc:** (dávka dle balení)
+- **Ashwagandha KSM66:** (dávka dle balení)
+- **Krill oil:** (dávka dle balení)
+
+**CELKEM ZA DEN:**
+- **Creatine:** 16g/den (vyšší dávka "pro efekt na mozek" - kognitivní benefit)
+- **Magnesium:** 600mg/den
+- **Ashwagandha:** 2× denně
+- **Krill oil (omega-3):** 2× denně
+
+---
+
+### Vliv Suplementace na Spánek a Recovery
+
+**KRITICKÉ ZJIŠTĚNÍ:** ⚠️
+> "Kdyz suplementuju celej tenhle stack, tak mam spanek uplne skvelej. Kdyz suplementy dojdou, tak vetsinou je to horsi."
+
+**Důsledky:**
+- Kvalita spánku je **silně závislá** na konzistentní suplementaci
+- Bez suplementů → horší spánek → horší recovery → adjustace tréninku nutná
+- **Priorita:** Udržovat konzistentní zásoby suplementů!
+- **Risk management:** Pokud dojdou suplementy → snížit tréninkový objem/intenzitu do doby, než se spánek stabilizuje
+
+**Monitoring:**
+- Trackovat sleep quality daily (Apple Watch screenshot)
+- Korelovat s compliance suplementace
+- Adjustovat trénink podle sleep quality
+
+---
+
 ## 🎯 Priority - Co Je Nejdůležitější?
 
 _Seřazeno podle priority (odvozeno z cílů):_
